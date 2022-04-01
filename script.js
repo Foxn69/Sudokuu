@@ -9,8 +9,6 @@ let obj = {
     age: 24
 };
 const arr1 = [1,2,3,4,5];
-
-
-
-
+num = 123
+ const text = 'Hello'
 
